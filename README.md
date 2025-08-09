@@ -41,8 +41,7 @@
 
 ## 🛠️ Skills
 <p align="center">
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,linux,ros,docker,kubernetes,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,react,mongodb,express,nodejs,postgresql,firebase,docker,linux,vscode" />
 </p>
 
 ---
