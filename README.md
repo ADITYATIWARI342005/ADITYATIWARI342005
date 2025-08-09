@@ -49,7 +49,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/aditya-tiwari"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/aditya-tiwari-141bb3293/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:adityatiwari@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
