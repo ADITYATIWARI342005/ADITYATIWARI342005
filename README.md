@@ -14,7 +14,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdityaTiwari342005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=beorn7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=AdityaTiwari342005&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
