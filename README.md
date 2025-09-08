@@ -1,8 +1,4 @@
-# 💫 About Me: ![](https://komarev.com/ghpvc/?username=AdityaTiwari342005&label=Profile+views&style=for-the-badge&color=blueviolet)
-
-<p align="center">
-  <img src="https://github.com/AdityaTiwari342005/AdityaTiwari342005/assets/00000000/banner.gif" alt="Banner" width="100%"/>
-</p>
+# 💫 About Me: 
 
 🔭 I'm currently working on projects that solve real-life problems and make the world a better place.<br>
 🌱 I'm currently learning Full Stack Development.<br>
@@ -77,7 +73,7 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats:  _![](https://komarev.com/ghpvc/?username=AdityaTiwari342005&label=Profile+views&style=for-the-badge&color=blueviolet)
 ![](https://github-readme-stats.vercel.app/api?username=AdityaTiwari342005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaTiwari342005&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaTiwari342005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
