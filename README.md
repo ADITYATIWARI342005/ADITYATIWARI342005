@@ -16,6 +16,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaTiwari342005)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
+
 # 💻 Tech Stack
 
 ### 📝 Programming Languages  
@@ -28,7 +30,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23FF5733.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 
----
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ### ⚛️ Frontend Development  
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
@@ -37,14 +39,14 @@
 ![Styled Components](https://img.shields.io/badge/Styled_Components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
----
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ### 🖥️ Backend Development  
 ![Node.js](https://img.shields.io/badge/Node.js-%2381C784.svg?style=for-the-badge&logo=node.js&logoColor=black) 
 ![Express.js](https://img.shields.io/badge/Express.js-%23303030.svg?style=for-the-badge&logo=express&logoColor=white) 
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)  
 
----
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ### 🗄️ Databases & Cloud  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234CAF50.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -52,7 +54,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
 ![AWS S3](https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
----
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -63,7 +65,7 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-%23000000.svg?style=for-the-badge&logo=webstorm&logoColor=white) 
 ![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white)  
 
----
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ### 🚀 Interested In  
 ![AI/ML](https://img.shields.io/badge/Artificial_Intelligence-%23000000.svg?style=for-the-badge&logo=probot&logoColor=white) 
@@ -78,6 +80,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaTiwari342005&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaTiwari342005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
+
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaTiwari342005&theme=tokyo-night&hide_border=true)
 
@@ -85,6 +89,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AdityaTiwari342005&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -94,8 +100,12 @@
 ## 📊 GitHub Activity Overview
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADITYATIWARI342005&theme=github_dark)
 
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ![](https://raw.githubusercontent.com/ADITYATIWARI342005/ADITYATIWARI342005/main/metrics.plugin.activity.svg)
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
+
 
 
 
