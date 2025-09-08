@@ -99,8 +99,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADITYATIWARI342005&theme=github_dark)
 
 
-![](https://raw.githubusercontent.com/lowlighter/metrics/master/metrics.plugin.activity.svg)
-![](./metrics.plugin.activity.svg)
+![](https://raw.githubusercontent.com/ADITYATIWARI342005/ADITYATIWARI342005/main/metrics.plugin.activity.svg)
 
 
 
