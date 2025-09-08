@@ -58,8 +58,11 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-## 📈 Detailed Activity Metrics
-![Metrics](https://metrics.lecoq.io/YOUR_USERNAME?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FKolkata)
+## 📊 GitHub Activity Overview
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADITYATIWARI342005&theme=github_dark)
+
+![](https://raw.githubusercontent.com/lowlighter/metrics/master/metrics.plugin.activity.svg)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
