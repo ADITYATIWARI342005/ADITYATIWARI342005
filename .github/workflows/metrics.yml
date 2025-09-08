@@ -12,7 +12,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          filename: metrics.plugin.activity.svg   # output filename
+          output_action: commit                   # commit the file to repo
           plugin_activity: yes
-          plugin_activity_limit: 5     # Show last 5 activities
-          plugin_activity_days: 14     # Look back 14 days
-          plugin_activity_filter: all  # Include PRs, issues, reviews, etc.
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
