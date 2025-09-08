@@ -7,19 +7,18 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:                  # ✅ Required for committing files
-      contents: write
+    permissions:
+      contents: write            # allow commits from the workflow
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}     # Use a PAT with contents:write
+          token: ${{ secrets.METRICS_TOKEN }}     # your PAT stored in repo secrets
           base: ""
-          filename: metrics.plugin.activity.svg   # Output filename
-          output_action: commit                   # Commit the file to repo
-          committer_branch: main                  # ✅ Ensure correct branch
+          filename: metrics.plugin.activity.svg
+          output_action: commit
+          committer_branch: main
           committer_message: "chore: update metrics [skip ci]"
-          
-          # Plugins
+
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
