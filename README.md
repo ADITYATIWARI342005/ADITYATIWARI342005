@@ -98,7 +98,7 @@
 ## 📊 GitHub Activity Overview
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADITYATIWARI342005&theme=github_dark)
 
-![](https://raw.githubusercontent.com/lowlighter/metrics/master/metrics.plugin.activity.svg)
+![](./metrics.plugin.activity.svg)
 
 
 
