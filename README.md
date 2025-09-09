@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="70%" valign="top">
 
 🔭 I'm currently working on projects that solve real-life problems and make the world a better place.<br>  
 🌱 I'm currently learning Full Stack Development.<br>  
@@ -13,7 +13,7 @@
 😄 Pronouns: He/Him<br>  
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
 <!-- Replace with GIF or live hosted animation -->
 <a href="https://adityatiwari342005.github.io/Enhance_Profile_Readme/">
