@@ -27,8 +27,7 @@
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%230076D6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-%23FF5733.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23FF5733.svg?style=for-the-badge&logo=html5&logoColor=white)  
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
@@ -36,7 +35,6 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white) 
-![Styled Components](https://img.shields.io/badge/Styled_Components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
