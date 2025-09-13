@@ -68,30 +68,22 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%230076D6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-%23FF5733.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
-
 ### ⚛️ Frontend Development  
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
-
 ### 🖥️ Backend Development  
 ![Node.js](https://img.shields.io/badge/Node.js-%2381C784.svg?style=for-the-badge&logo=node.js&logoColor=black) 
 ![Express.js](https://img.shields.io/badge/Express.js-%23303030.svg?style=for-the-badge&logo=express&logoColor=white) 
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)  
-
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ### 🗄️ Databases & Cloud  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234CAF50.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23006482.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
 ![AWS S3](https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
