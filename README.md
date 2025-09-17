@@ -105,7 +105,7 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ## 📊 GitHub Stats  
-![Metrics](https://github.com/AdityaTiwari342005/AdityaTiwari342005/blob/master/github-metrics.svg)
+![Metrics](https://github.com/ADITYATIWARI342005/ADITYATIWARI342005/blob/master/github-metrics.svg)<br>
 ![](https://github-readme-stats.vercel.app/api?username=AdityaTiwari342005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br>  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaTiwari342005&theme=tokyonight&hide_border=false)<br>  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaTiwari342005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
