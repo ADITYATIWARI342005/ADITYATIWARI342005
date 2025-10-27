@@ -132,4 +132,3 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-![](https://raw.githubusercontent.com/ADITYATIWARI342005/ADITYATIWARI342005/main/metrics.plugin.activity.svg)  
