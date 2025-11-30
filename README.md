@@ -110,7 +110,7 @@
 
 ## 📊 GitHub Stats  
 ![Metrics](https://github.com/ADITYATIWARI342005/ADITYATIWARI342005/blob/master/github-metrics.svg)<br>
-![](https://github-readme-stats.vercel.app/api?username=AdityaTiwari342005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br>  
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ADITYATIWARI342005&line_height=40&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaTiwari342005&theme=tokyonight&hide_border=false)<br>  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaTiwari342005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
@@ -125,9 +125,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=AdityaTiwari342005&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)  
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
-
+<!--
 ## ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  -->
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
