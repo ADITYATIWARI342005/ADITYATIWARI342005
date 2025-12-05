@@ -15,9 +15,9 @@
 <td width="30%" valign="top" align="center">
 
 <!-- Replace with GIF or live hosted animation -->
-<a href="https://adityatiwari342005.github.io/Enhance_Profile_Readme/">
-  <img src="assests/Untitledvideo-MadewithClipchamp-ezgif.com-video-to-gif-converter.gif" width="400" />
-</a>
+<!-- <a href="https://adityatiwari342005.github.io/Enhance_Profile_Readme/"> -->
+  <img src="assests/images.png" width="400" />
+<!-- </a> -->
 
 
 </td>
