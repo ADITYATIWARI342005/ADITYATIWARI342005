@@ -94,13 +94,24 @@
 
 ## 📊 GitHub Stats  
 ![Metrics](https://github.com/ADITYATIWARI342005/ADITYATIWARI342005/blob/master/github-metrics.svg)<br>
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ADITYATIWARI342005&line_height=40&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaTiwari342005&theme=tokyonight&hide_border=false)<br>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaTiwari342005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADITYATIWARI342005&theme=tokyonight" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ADITYATIWARI342005&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ADITYATIWARI342005&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADITYATIWARI342005&theme=tokyonight" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ADITYATIWARI342005&theme=tokyonight" alt="Top Languages by Commit"/>
+</p>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-
+### Holopin Dashboard
 [![Holopin Badges](https://www.holopin.me/@adityatiwari342005)](https://www.holopin.io/@adityatiwari342005)
 
 
@@ -108,19 +119,3 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaTiwari342005&theme=tokyo-night&hide_border=true)  
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=AdityaTiwari342005&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)  
-
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
-<!--
-## ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
-
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
-
-## 📊 GitHub Activity Overview  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADITYATIWARI342005&theme=github_dark)  
-
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif) -->
-
