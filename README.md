@@ -10,13 +10,12 @@
 💬 Ask me about Web Development, Programming, or anything tech-related!<br>  
 📫 How to reach me: **adityatiwari342005@gmail.com**<br>  
 😄 Pronouns: He/Him<br>  
-
 </td>
 <td width="30%" valign="top" align="center">
 
 <!-- Replace with GIF or live hosted animation -->
 <!-- <a href="https://adityatiwari342005.github.io/Enhance_Profile_Readme/"> -->
-  <img src="assests/images.png" width="400" />
+  <img src="assests/images.png" width="400" height="190"/>
 <!-- </a> -->
 
 
