@@ -101,7 +101,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ADITYATIWARI342005&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ADITYATIWARI342005&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ADITYATIWARI342005&theme=tokyonight&utcOffset=5.3" alt="Productive Time"/>
 </p>
 
 <p align="center">
