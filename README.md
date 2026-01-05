@@ -44,7 +44,7 @@
          alt="GitHub" height="42" />
   </a>
 
-  <a href="https://your-portfolio-link.com" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
+  <a href="https://aditya-tiwari-portfolio345.vercel.app/" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
          alt="Portfolio" height="42" />
   </a>
